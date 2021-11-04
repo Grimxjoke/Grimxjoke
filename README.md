@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grimxjoke
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Web Devellopment
-- 💞️ I’m looking to collaborate on any Smart Contract Project on th Ethereum Blockchain
+- 💞️ I’m looking to collaborate on any Smart Contract Project on the Ethereum Blockchain
 - 📫 How to reach me : grimxjoke@yahoo.fr
 
 <!---
