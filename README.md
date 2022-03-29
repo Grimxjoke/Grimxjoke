@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grimxjoke
+- 👋 Hi, I’m Paul
 - 🌱 I’m currently learning Blockchain Technology
 - 💞️ I’m looking to collaborate on any Smart Contract Project on the Ethereum Blockchain
 - 📫 How to reach me : paul.birnbaum.pro@gmail.com
