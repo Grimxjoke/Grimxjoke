@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 🌱 I’m currently learning Blockchain Technology
-- 💞️ I’m looking to collaborate on any Smart Contract Project on Ethereum or any blockchain using the Ethereum Virtual Machine (EVM)
+- 💞️ I’m looking to collaborate on Smart Contract Project on Ethereum or any Layer 2 blockchains using the Ethereum Virtual Machine (EVM)
 - 📫 How to reach me : paul.birnbaum.pro@gmail.com
 
 <!---
